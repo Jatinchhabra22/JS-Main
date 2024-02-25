@@ -20,3 +20,17 @@ console.log(booleanIsLoggedIn);
 // 0 -- false
 // "jatin" -- true
 // "" -- false
+
+// arithmetic and string operations //
+
+let str1 = "hello "
+let str2 = "jatin"
+let str3 = str1 + str2
+
+console.log(str3); 
+
+console.log("1" + 2 ); // 12
+console.log(1 + "2" ); // 12
+console.log("1" + "2" ); //12
+console.log("1" + "2" + 2 );  // 122
+console.log(1 + 2 + "2");  // 32
