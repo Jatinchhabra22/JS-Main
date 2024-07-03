@@ -34,3 +34,5 @@ console.log(1 + "2" ); // 12
 console.log("1" + "2" ); //12
 console.log("1" + "2" + 2 );  // 122
 console.log(1 + 2 + "2");  // 32
+
+// ECMA script ke acc hota h ye sb
