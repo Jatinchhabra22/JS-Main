@@ -11,4 +11,3 @@ objects
 */
 
 console.log(typeof null);
- 
