@@ -14,7 +14,7 @@ console.log(gameName.toUpperCase());
 
 
 // SLICING // 
-const newString =  gameName.substring(0,4)
+const newString =  gameName.substring(0,4) // 4th place not included
 console.log(newString);
 
 const newStringOne = "   hitesh  "
