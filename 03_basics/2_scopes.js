@@ -56,3 +56,5 @@ addTwo(5)
 const addTwo = function(num){
     return num + 2
 }
+
+// var agar ham declare krte hai to vo gloablly declare ho jta hai 
