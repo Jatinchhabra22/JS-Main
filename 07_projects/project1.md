@@ -83,3 +83,19 @@ form.addEventListener('submit',function(e){
 });
 
 ```
+
+## project 3 solution 
+
+
+```javascript
+
+const clock = document.getElementById('clock')
+
+// imp step // 
+
+setInterval(function(){
+  let date  = new Date()
+  clock.innerHTML = date.toLocaleTimeString()
+}, 1000)
+
+```
