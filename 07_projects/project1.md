@@ -101,7 +101,7 @@ setInterval(function(){
 ```
 ## project 4 solution
 
-```javascirpt
+```javascript
 
 
 let randomNumber = parseInt(Math.random() * 100 + 1);
